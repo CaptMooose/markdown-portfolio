@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I learned to code in **C language** and **Python**, and some knowledge of computer science :computer: :closed_book:. 
